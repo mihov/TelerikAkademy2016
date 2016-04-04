@@ -1,10 +1,10 @@
 ﻿using System;
 
-class PrintSequence
+class LongSequence
 {
     static void Main()
     {
-        for (int counter = 1; counter < 11; counter++)
+        for (int counter = 1; counter < 1001; counter++)
         {
             if ((counter % 2) == 0)
             {

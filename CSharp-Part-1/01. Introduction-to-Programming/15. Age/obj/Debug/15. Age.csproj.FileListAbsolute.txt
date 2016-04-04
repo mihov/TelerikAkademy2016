@@ -4,3 +4,9 @@ E:\User\Documents\Telerik\GitHub\Telerik2016\01. Introduction-to-Programming\15.
 E:\User\Documents\Telerik\GitHub\Telerik2016\01. Introduction-to-Programming\15. Age\obj\Debug\15. Age.csprojResolveAssemblyReference.cache
 E:\User\Documents\Telerik\GitHub\Telerik2016\01. Introduction-to-Programming\15. Age\obj\Debug\_15.Age.exe
 E:\User\Documents\Telerik\GitHub\Telerik2016\01. Introduction-to-Programming\15. Age\obj\Debug\_15.Age.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\01. Introduction-to-Programming\15. Age\bin\Debug\_15.Age.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\01. Introduction-to-Programming\15. Age\obj\Debug\_15.Age.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\01. Introduction-to-Programming\15. Age\obj\Debug\_15.Age.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\01. Introduction-to-Programming\15. Age\bin\Debug\_15.Age.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\01. Introduction-to-Programming\15. Age\bin\Debug\_15.Age.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\01. Introduction-to-Programming\15. Age\obj\Debug\15. Age.csprojResolveAssemblyReference.cache
