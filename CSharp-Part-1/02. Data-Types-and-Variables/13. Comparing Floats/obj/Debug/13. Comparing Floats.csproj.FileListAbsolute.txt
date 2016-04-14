@@ -1,0 +1,5 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\02. Data-Types-and-Variables\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\02. Data-Types-and-Variables\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\02. Data-Types-and-Variables\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\02. Data-Types-and-Variables\13. Comparing Floats\obj\Debug\_13.Comparing_Floats.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\02. Data-Types-and-Variables\13. Comparing Floats\obj\Debug\_13.Comparing_Floats.pdb

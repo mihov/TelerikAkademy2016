@@ -1,0 +1,1 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\03. Operators-and-Expressions\01. Odd or Even\bin\Debug\_01.Odd_or_Even.exe.config

@@ -1,0 +1,6 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\02. Data-Types-and-Variables\07. Quotes in Strings\bin\Debug\_07.Quotes_in_Strings.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\02. Data-Types-and-Variables\07. Quotes in Strings\obj\Debug\07. Quotes in Strings.csprojResolveAssemblyReference.cache
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\02. Data-Types-and-Variables\07. Quotes in Strings\bin\Debug\_07.Quotes_in_Strings.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\02. Data-Types-and-Variables\07. Quotes in Strings\bin\Debug\_07.Quotes_in_Strings.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\02. Data-Types-and-Variables\07. Quotes in Strings\obj\Debug\_07.Quotes_in_Strings.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\02. Data-Types-and-Variables\07. Quotes in Strings\obj\Debug\_07.Quotes_in_Strings.pdb

@@ -1,0 +1,5 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\01. Introduction-to-Programming\16. Long Sequence\bin\Debug\_16.Long_Sequence.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\01. Introduction-to-Programming\16. Long Sequence\bin\Debug\_16.Long_Sequence.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\01. Introduction-to-Programming\16. Long Sequence\bin\Debug\_16.Long_Sequence.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\01. Introduction-to-Programming\16. Long Sequence\obj\Debug\_16.Long_Sequence.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\01. Introduction-to-Programming\16. Long Sequence\obj\Debug\_16.Long_Sequence.pdb

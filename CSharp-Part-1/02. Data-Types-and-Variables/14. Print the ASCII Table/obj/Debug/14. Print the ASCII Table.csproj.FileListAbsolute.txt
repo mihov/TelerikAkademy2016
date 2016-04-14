@@ -1,0 +1,5 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\02. Data-Types-and-Variables\14. Print the ASCII Table\bin\Debug\_14.Print_the_ASCII_Table.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\02. Data-Types-and-Variables\14. Print the ASCII Table\bin\Debug\_14.Print_the_ASCII_Table.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\02. Data-Types-and-Variables\14. Print the ASCII Table\bin\Debug\_14.Print_the_ASCII_Table.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\02. Data-Types-and-Variables\14. Print the ASCII Table\obj\Debug\_14.Print_the_ASCII_Table.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\02. Data-Types-and-Variables\14. Print the ASCII Table\obj\Debug\_14.Print_the_ASCII_Table.pdb
