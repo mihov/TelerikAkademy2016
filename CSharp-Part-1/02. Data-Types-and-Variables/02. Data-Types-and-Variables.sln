@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Comparing Floats", "13.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. Print the ASCII Table", "14. Print the ASCII Table\14. Print the ASCII Table.csproj", "{23F51A80-7C23-4872-9A8B-3FF7A3B1CB6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Isosceles Triangle", "08. Isosceles Triangle\08. Isosceles Triangle.csproj", "{639756BD-776D-4499-8D6E-6B196195795E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{23F51A80-7C23-4872-9A8B-3FF7A3B1CB6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23F51A80-7C23-4872-9A8B-3FF7A3B1CB6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23F51A80-7C23-4872-9A8B-3FF7A3B1CB6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{639756BD-776D-4499-8D6E-6B196195795E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{639756BD-776D-4499-8D6E-6B196195795E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{639756BD-776D-4499-8D6E-6B196195795E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{639756BD-776D-4499-8D6E-6B196195795E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
