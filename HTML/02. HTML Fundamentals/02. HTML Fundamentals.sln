@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0C2E31E3-2BFC-4E65-84B2-B4DEB4400DC2}"
+	ProjectSection(SolutionItems) = preProject
+		1. Runners Home page.html = 1. Runners Home page.html
+		2. Nested Lists.html = 2. Nested Lists.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Social site", "3. Social site", "{5E6B91EA-81C5-497E-984F-AB25F82075D7}"
+	ProjectSection(SolutionItems) = preProject
+		friends.html = friends.html
+		home.html = home.html
+		profile.html = profile.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5E6B91EA-81C5-497E-984F-AB25F82075D7} = {0C2E31E3-2BFC-4E65-84B2-B4DEB4400DC2}
+	EndGlobalSection
+EndGlobal
