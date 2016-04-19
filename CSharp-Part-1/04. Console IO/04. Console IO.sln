@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Company Info", "02. Com
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Circle", "03. Circle\03. Circle.csproj", "{01D67BD2-60EF-427B-B8E6-60D5A41EF8C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Numbers Comparer", "05. Numbers Comparer\05. Numbers Comparer.csproj", "{313A137B-17F4-4739-9972-B99F49B4B7CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Quadratic Equation", "06. Quadratic Equation\06. Quadratic Equation.csproj", "{1445107A-C3B6-4F4F-9A2D-223832F7B3D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{01D67BD2-60EF-427B-B8E6-60D5A41EF8C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01D67BD2-60EF-427B-B8E6-60D5A41EF8C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01D67BD2-60EF-427B-B8E6-60D5A41EF8C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{313A137B-17F4-4739-9972-B99F49B4B7CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{313A137B-17F4-4739-9972-B99F49B4B7CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{313A137B-17F4-4739-9972-B99F49B4B7CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{313A137B-17F4-4739-9972-B99F49B4B7CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1445107A-C3B6-4F4F-9A2D-223832F7B3D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1445107A-C3B6-4F4F-9A2D-223832F7B3D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1445107A-C3B6-4F4F-9A2D-223832F7B3D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1445107A-C3B6-4F4F-9A2D-223832F7B3D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
