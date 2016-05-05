@@ -4,7 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-class MaximalSequence
+
+class MaximalIncreasingSequence
 {
     static void Main()
     {
@@ -18,28 +19,23 @@ class MaximalSequence
             intArrayA[i] = int.Parse(Console.ReadLine());
         }
 
-        // int currentSeqElement = intArrayA[0];
-
         for (int i = 1; i < n; i++)
         {
-            if (intArrayA[i] == intArrayA[i - 1])
+            if (intArrayA[i] > intArrayA[i - 1])
             {
                 tempMaxSeq++;
             }
             else
             {
-
-
                 tempMaxSeq = 1;
             }
 
-            if (tempMaxSeq > maxSeq)
-            {
-                maxSeq = tempMaxSeq;
-            }
-        }
+            maxSeq = Math.Max(tempMaxSeq, maxSeq);
 
-        Console.WriteLine((maxSeq == 1) ? 0 : maxSeq);
+        }
+        Console.WriteLine(maxSeq);
+
+
 
     }
 }
