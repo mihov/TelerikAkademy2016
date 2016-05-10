@@ -38,7 +38,6 @@ class MaximalSum
                 if (IsInside_3x3(theMatrix, i, j))
                 {
                     tempMaxSum = CalcMatrix_3x3(theMatrix, i, j);
-                    // Console.WriteLine("[{0},{1}] = {2}", i,j,tempMaxSum);
                 }
 
 
@@ -52,18 +51,6 @@ class MaximalSum
         }
 
         Console.WriteLine(maxSum);
-
-        //for (int i = 0; i < row; i++)
-        //{
-        //    for (int j = 0; j < col; j++)
-        //    {
-        //        Console.Write( theMatrix[i, j].ToString().PadLeft(4,' '));
-        //    }
-        //    Console.WriteLine();
-        //}
-
-
-
     }
 
     static int CalcMatrix_3x3(int[,] inputMatrix, int coordR, int coorC)
@@ -83,16 +70,8 @@ class MaximalSum
 
     static bool IsInside_3x3(int[,] inputMatrix, int coordR, int coordC)
     {
-        // bool result = true;
-
         int rowsMax = inputMatrix.GetLength(0) - 1;
         int colsMax = inputMatrix.GetLength(1) - 1;
-
-        //if ((coordR + 3 < rowsMax) && (coordC+3 < colsMax))
-        //{
-        //    result = 
-        //}
-
 
         return (coordR + 2 <= rowsMax) && (coordC + 2 <= colsMax);
     }
