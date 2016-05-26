@@ -12,8 +12,10 @@ namespace _10.Unicode_characters
         {
             foreach (var item in Console.ReadLine())
             {
-                Console.Write(@"QU{0:x4}", (int)item);
+                Console.Write("\\u" + ((int)item).ToString("X").PadLeft(4, '0'));
+                //Console.Write(@"\u{0:x4}", (int)item);
             }
+           // Console.WriteLine();
         }
     }
 }
