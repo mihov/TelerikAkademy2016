@@ -8,7 +8,7 @@
         public decimal Y { get; set; }
         public decimal Z { get; set; }
 
-
+        private static readonly Point3D Start = new Point3D(0, 0, 0);
 
         public Point3D(decimal xCoor = 0m, decimal yCoor = 0m, decimal zCoor = 0m)
         {
@@ -17,13 +17,14 @@
             this.Z = zCoor;
         }
 
-
+        public static Point3D O
+        {
+            get { return Start; }
+        }
 
         public override string ToString()
         {
-            return String.Format("[{0}][{1}][{2}]", this.X, this.Y, this.Z);
+            return string.Format("[{0}:{1}:{2}]", this.X, this.Y, this.Z);
         }
-
-
     }
 }
