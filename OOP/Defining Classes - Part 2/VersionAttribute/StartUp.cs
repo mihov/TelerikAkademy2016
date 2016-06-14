@@ -7,7 +7,7 @@ namespace VersionAttribute
     {
         static void Main()
         {
-            Type type = typeof(VersionAttribute);
+            var type = typeof(VersionAttribute);
             var classAttributes = type.GetCustomAttributes(true);
 
             foreach (var attribute in classAttributes)
