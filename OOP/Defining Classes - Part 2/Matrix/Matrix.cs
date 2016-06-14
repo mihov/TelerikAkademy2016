@@ -10,11 +10,11 @@
         private int rows;
         private int cols;
 
-        public Matrix(int inputRows, int inputCols)
+        public Matrix(int initRows, int initCols)
         {
-            this.Rows = inputRows;
-            this.Cols = inputCols;
-            this.matrix = new T[inputRows, inputCols];
+            this.Rows = initRows;
+            this.Cols = initCols;
+            this.matrix = new T[initRows, initCols];
         }
 
         public int Rows
@@ -32,7 +32,7 @@
                 }
                 else
                 {
-                    throw new ArgumentException("Rows must be between 1 and  2,147,483,647!");
+                    throw new ArgumentException("Rows must be between 1 and " + int.MaxValue);
                 }
             }
         }
@@ -52,7 +52,7 @@
                 }
                 else
                 {
-                    throw new ArgumentException("Cols must be between 1 and  2,147,483,647!");
+                    throw new ArgumentException("Cols must be between 1 and " + int.MaxValue);
                 }
             }
         }
@@ -63,11 +63,11 @@
             {
                 if (inputRow < 0 || inputRow > this.Rows)
                 {
-                    throw new IndexOutOfRangeException($"Rows and Cols must be between 0 and {this.Rows - 1}!");
+                    throw new IndexOutOfRangeException($"Rows must be between 0 and {this.Rows - 1}!");
                 }
                 else if (inputCol < 0 || inputCol > this.Cols)
                 {
-                    throw new IndexOutOfRangeException($"Cols and Cols must be between 0 and {this.Cols - 1}!");
+                    throw new IndexOutOfRangeException($"Cols must be between 0 and {this.Cols - 1}!");
                 }
                 else
                 {
@@ -79,11 +79,11 @@
             {
                 if (inputRow < 0 || inputRow > this.Rows)
                 {
-                    throw new IndexOutOfRangeException($"Rows and Cols must be between 0 and {this.Rows - 1}!");
+                    throw new IndexOutOfRangeException($"Rows must be between 0 and {this.Rows - 1}!");
                 }
                 else if (inputCol < 0 || inputCol > this.Cols)
                 {
-                    throw new IndexOutOfRangeException($"Cols and Cols must be between 0 and {this.Cols - 1}!");
+                    throw new IndexOutOfRangeException($"Cols must be between 0 and {this.Cols - 1}!");
                 }
                 else
                 {
@@ -195,7 +195,7 @@
             {
                 for (int j = 0; j < this.Cols; j++)
                 {
-                    this.matrix[i, j] = (dynamic)generator.Next(-15, 100);
+                    this.matrix[i, j] = (dynamic)generator.Next(-100, 100);
                 }
             }
         }

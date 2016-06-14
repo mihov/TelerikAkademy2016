@@ -1,15 +1,19 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace VersionAttribute
 {
-    class StartUp
+    [Version(VersionAttribute.Type.Class, "StartUp Version Attribute", "6.14")]
+    public class StartUp
     {
-        static void Main(string[] args)
+        static void Main()
         {
+            Type type = typeof(VersionAttribute);
+            var classAttributes = type.GetCustomAttributes(true);
+
+            foreach (var attribute in classAttributes)
+            {
+                Console.WriteLine("{0}: {1}     Version: {2}", attribute.Component, attribute.Name, attribute.Version);
+            }
         }
     }
 }
