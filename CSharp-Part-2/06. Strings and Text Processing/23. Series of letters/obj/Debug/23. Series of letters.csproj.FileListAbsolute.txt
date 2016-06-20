@@ -1,0 +1,6 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\06. Strings and Text Processing\23. Series of letters\bin\Debug\_23.Series_of_letters.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\06. Strings and Text Processing\23. Series of letters\bin\Debug\_23.Series_of_letters.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\06. Strings and Text Processing\23. Series of letters\bin\Debug\_23.Series_of_letters.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\06. Strings and Text Processing\23. Series of letters\obj\Debug\23. Series of letters.csprojResolveAssemblyReference.cache
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\06. Strings and Text Processing\23. Series of letters\obj\Debug\_23.Series_of_letters.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\06. Strings and Text Processing\23. Series of letters\obj\Debug\_23.Series_of_letters.pdb

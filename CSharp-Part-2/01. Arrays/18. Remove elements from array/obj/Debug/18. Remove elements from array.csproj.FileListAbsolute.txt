@@ -1,0 +1,6 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\01. Arrays\18. Remove elements from array\bin\Debug\_18.Remove_elements_from_array.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\01. Arrays\18. Remove elements from array\bin\Debug\_18.Remove_elements_from_array.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\01. Arrays\18. Remove elements from array\bin\Debug\_18.Remove_elements_from_array.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\01. Arrays\18. Remove elements from array\obj\Debug\18. Remove elements from array.csprojResolveAssemblyReference.cache
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\01. Arrays\18. Remove elements from array\obj\Debug\_18.Remove_elements_from_array.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\01. Arrays\18. Remove elements from array\obj\Debug\_18.Remove_elements_from_array.pdb

@@ -1,0 +1,5 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\04. Console IO\09. Sum of N Numbers\bin\Debug\_09.Sum_of_N_Numbers.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\04. Console IO\09. Sum of N Numbers\bin\Debug\_09.Sum_of_N_Numbers.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\04. Console IO\09. Sum of N Numbers\bin\Debug\_09.Sum_of_N_Numbers.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\04. Console IO\09. Sum of N Numbers\obj\Debug\_09.Sum_of_N_Numbers.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\04. Console IO\09. Sum of N Numbers\obj\Debug\_09.Sum_of_N_Numbers.pdb

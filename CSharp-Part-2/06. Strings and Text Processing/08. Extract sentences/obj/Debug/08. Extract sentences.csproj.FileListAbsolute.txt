@@ -1,0 +1,6 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\06. Strings and Text Processing\08. Extract sentences\bin\Debug\_08.Extract_sentences.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\06. Strings and Text Processing\08. Extract sentences\bin\Debug\_08.Extract_sentences.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\06. Strings and Text Processing\08. Extract sentences\bin\Debug\_08.Extract_sentences.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\06. Strings and Text Processing\08. Extract sentences\obj\Debug\08. Extract sentences.csprojResolveAssemblyReference.cache
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\06. Strings and Text Processing\08. Extract sentences\obj\Debug\_08.Extract_sentences.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\06. Strings and Text Processing\08. Extract sentences\obj\Debug\_08.Extract_sentences.pdb

@@ -1,0 +1,6 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\06. Loops\04. Print a Deck\bin\Debug\_04.Print_a_Deck.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\06. Loops\04. Print a Deck\bin\Debug\_04.Print_a_Deck.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\06. Loops\04. Print a Deck\bin\Debug\_04.Print_a_Deck.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\06. Loops\04. Print a Deck\obj\Debug\04. Print a Deck.csprojResolveAssemblyReference.cache
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\06. Loops\04. Print a Deck\obj\Debug\_04.Print_a_Deck.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\06. Loops\04. Print a Deck\obj\Debug\_04.Print_a_Deck.pdb

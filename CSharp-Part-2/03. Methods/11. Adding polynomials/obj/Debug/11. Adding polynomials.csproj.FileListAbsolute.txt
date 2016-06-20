@@ -1,0 +1,5 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\03. Methods\11. Adding polynomials\bin\Debug\_11.Adding_polynomials.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\03. Methods\11. Adding polynomials\bin\Debug\_11.Adding_polynomials.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\03. Methods\11. Adding polynomials\bin\Debug\_11.Adding_polynomials.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\03. Methods\11. Adding polynomials\obj\Debug\_11.Adding_polynomials.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\03. Methods\11. Adding polynomials\obj\Debug\_11.Adding_polynomials.pdb

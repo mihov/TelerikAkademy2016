@@ -1,0 +1,1 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\01. Arrays\06. Maximal K sum\bin\Debug\_06.Maximal_K_sum.exe.config

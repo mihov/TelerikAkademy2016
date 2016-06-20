@@ -1,0 +1,5 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\04. Numeral Systems\08. Binary short\bin\Debug\_08.Binary_short.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\04. Numeral Systems\08. Binary short\bin\Debug\_08.Binary_short.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\04. Numeral Systems\08. Binary short\bin\Debug\_08.Binary_short.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\04. Numeral Systems\08. Binary short\obj\Debug\_08.Binary_short.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\04. Numeral Systems\08. Binary short\obj\Debug\_08.Binary_short.pdb

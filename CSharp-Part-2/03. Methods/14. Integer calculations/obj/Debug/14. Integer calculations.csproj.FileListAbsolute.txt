@@ -1,0 +1,6 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\03. Methods\14. Integer calculations\bin\Debug\_14.Integer_calculations.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\03. Methods\14. Integer calculations\bin\Debug\_14.Integer_calculations.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\03. Methods\14. Integer calculations\bin\Debug\_14.Integer_calculations.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\03. Methods\14. Integer calculations\obj\Debug\14. Integer calculations.csprojResolveAssemblyReference.cache
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\03. Methods\14. Integer calculations\obj\Debug\_14.Integer_calculations.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\03. Methods\14. Integer calculations\obj\Debug\_14.Integer_calculations.pdb

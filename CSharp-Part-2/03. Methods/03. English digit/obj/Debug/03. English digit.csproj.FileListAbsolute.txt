@@ -1,0 +1,5 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\03. Methods\03. English digit\bin\Debug\_03.English_digit.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\03. Methods\03. English digit\bin\Debug\_03.English_digit.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\03. Methods\03. English digit\bin\Debug\_03.English_digit.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\03. Methods\03. English digit\obj\Debug\_03.English_digit.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\03. Methods\03. English digit\obj\Debug\_03.English_digit.pdb

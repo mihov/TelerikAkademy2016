@@ -1,0 +1,1 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\05. Using Classes and Objects\06. Triangle2SandAngl\bin\Debug\_06.Triangle2SandAngl.exe.config

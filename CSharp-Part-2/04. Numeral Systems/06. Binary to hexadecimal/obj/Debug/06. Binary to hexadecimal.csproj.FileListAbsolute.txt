@@ -1,0 +1,1 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\04. Numeral Systems\06. Binary to hexadecimal\bin\Debug\_06.Binary_to_hexadecimal.exe.config

@@ -1,0 +1,5 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\05. Using Classes and Objects\04. Triangle by a-h\bin\Debug\_04.Triangle_by_a_h.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\05. Using Classes and Objects\04. Triangle by a-h\bin\Debug\_04.Triangle_by_a_h.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\05. Using Classes and Objects\04. Triangle by a-h\bin\Debug\_04.Triangle_by_a_h.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\05. Using Classes and Objects\04. Triangle by a-h\obj\Debug\_04.Triangle_by_a_h.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\05. Using Classes and Objects\04. Triangle by a-h\obj\Debug\_04.Triangle_by_a_h.pdb

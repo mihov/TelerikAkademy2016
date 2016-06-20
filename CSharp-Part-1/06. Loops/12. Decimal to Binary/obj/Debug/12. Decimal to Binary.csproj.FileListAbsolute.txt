@@ -1,0 +1,1 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\06. Loops\12. Decimal to Binary\bin\Debug\_12.Decimal_to_Binary.exe.config

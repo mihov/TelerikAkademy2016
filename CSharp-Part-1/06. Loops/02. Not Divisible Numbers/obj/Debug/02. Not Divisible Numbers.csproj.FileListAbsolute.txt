@@ -1,0 +1,5 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\06. Loops\02. Not Divisible Numbers\bin\Debug\_02.Not_Divisible_Numbers.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\06. Loops\02. Not Divisible Numbers\bin\Debug\_02.Not_Divisible_Numbers.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\06. Loops\02. Not Divisible Numbers\bin\Debug\_02.Not_Divisible_Numbers.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\06. Loops\02. Not Divisible Numbers\obj\Debug\_02.Not_Divisible_Numbers.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\06. Loops\02. Not Divisible Numbers\obj\Debug\_02.Not_Divisible_Numbers.pdb

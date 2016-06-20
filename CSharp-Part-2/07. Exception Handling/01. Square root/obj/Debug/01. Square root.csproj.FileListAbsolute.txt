@@ -1,0 +1,6 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\07. Exception Handling\01. Square root\bin\Debug\_01.Square_root.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\07. Exception Handling\01. Square root\bin\Debug\_01.Square_root.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\07. Exception Handling\01. Square root\bin\Debug\_01.Square_root.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\07. Exception Handling\01. Square root\obj\Debug\01. Square root.csprojResolveAssemblyReference.cache
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\07. Exception Handling\01. Square root\obj\Debug\_01.Square_root.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\07. Exception Handling\01. Square root\obj\Debug\_01.Square_root.pdb

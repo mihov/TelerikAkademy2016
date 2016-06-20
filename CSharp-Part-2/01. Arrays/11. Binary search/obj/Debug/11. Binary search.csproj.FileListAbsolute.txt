@@ -1,0 +1,5 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\01. Arrays\11. Binary search\bin\Debug\_11.Binary_search.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\01. Arrays\11. Binary search\bin\Debug\_11.Binary_search.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\01. Arrays\11. Binary search\bin\Debug\_11.Binary_search.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\01. Arrays\11. Binary search\obj\Debug\_11.Binary_search.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\01. Arrays\11. Binary search\obj\Debug\_11.Binary_search.pdb

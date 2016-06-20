@@ -1,0 +1,5 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\04. Numeral Systems\07. One system to any other\bin\Debug\_07.One_system_to_any_other.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\04. Numeral Systems\07. One system to any other\bin\Debug\_07.One_system_to_any_other.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\04. Numeral Systems\07. One system to any other\bin\Debug\_07.One_system_to_any_other.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\04. Numeral Systems\07. One system to any other\obj\Debug\_07.One_system_to_any_other.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\04. Numeral Systems\07. One system to any other\obj\Debug\_07.One_system_to_any_other.pdb

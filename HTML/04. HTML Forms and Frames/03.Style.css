@@ -1,0 +1,61 @@
+﻿@font-face {
+    font-family: corbel;
+    src: url('corbel.ttf') format('truetype');
+} 
+
+body {
+    font-family: corbel;
+    font-size:15px;
+}
+
+.mainTable {
+    margin: auto;
+    width: 750px;
+    border: 1px solid gray;
+    border-radius:5px 5px 5px 5px;
+}
+
+th {
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+    font-size: x-large;
+    border-bottom-style:solid;
+    border-bottom-color: black;
+    border-bottom-width: 2px;
+}
+
+.innerTable {
+    border: 1px solid gray;
+    padding: 5px 5px 5px 5px;
+    margin: 5px 5px 5px 5px;
+}
+
+td {
+    margin: 0 0 0 0;
+}
+
+a {
+    color: #00aff0;
+}
+
+.box {
+    width: 260px;
+}
+
+fieldset {
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+}
+
+.center {
+    text-align: center;
+}
+
+.rightCell {
+    font-size:large;
+}
+
+img {
+    width:170px;
+    height:100px;
+}

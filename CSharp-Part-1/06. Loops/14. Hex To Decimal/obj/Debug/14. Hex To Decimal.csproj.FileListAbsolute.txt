@@ -1,0 +1,1 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\06. Loops\14. Hex To Decimal\bin\Debug\_14.Hex_To_Decimal.exe.config

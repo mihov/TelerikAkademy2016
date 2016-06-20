@@ -1,0 +1,2 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\06. Loops\17. Spiral Matrix\bin\Debug\_17.Spiral_Matrix.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\06. Loops\17. Spiral Matrix\obj\Debug\17. Spiral Matrix.csprojResolveAssemblyReference.cache

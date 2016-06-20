@@ -1,0 +1,5 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\06. Strings and Text Processing\03. Correct brackets\bin\Debug\_03.Correct_brackets.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\06. Strings and Text Processing\03. Correct brackets\bin\Debug\_03.Correct_brackets.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\06. Strings and Text Processing\03. Correct brackets\bin\Debug\_03.Correct_brackets.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\06. Strings and Text Processing\03. Correct brackets\obj\Debug\_03.Correct_brackets.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\06. Strings and Text Processing\03. Correct brackets\obj\Debug\_03.Correct_brackets.pdb

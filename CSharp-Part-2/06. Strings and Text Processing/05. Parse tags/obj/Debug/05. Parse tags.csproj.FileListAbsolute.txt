@@ -1,0 +1,6 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\06. Strings and Text Processing\05. Parse tags\bin\Debug\_05.Parse_tags.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\06. Strings and Text Processing\05. Parse tags\bin\Debug\_05.Parse_tags.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\06. Strings and Text Processing\05. Parse tags\bin\Debug\_05.Parse_tags.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\06. Strings and Text Processing\05. Parse tags\obj\Debug\05. Parse tags.csprojResolveAssemblyReference.cache
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\06. Strings and Text Processing\05. Parse tags\obj\Debug\_05.Parse_tags.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\06. Strings and Text Processing\05. Parse tags\obj\Debug\_05.Parse_tags.pdb

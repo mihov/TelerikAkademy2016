@@ -1,0 +1,6 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\06. Strings and Text Processing\10. Unicode characters\bin\Debug\_10.Unicode_characters.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\06. Strings and Text Processing\10. Unicode characters\bin\Debug\_10.Unicode_characters.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\06. Strings and Text Processing\10. Unicode characters\bin\Debug\_10.Unicode_characters.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\06. Strings and Text Processing\10. Unicode characters\obj\Debug\_10.Unicode_characters.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\06. Strings and Text Processing\10. Unicode characters\obj\Debug\_10.Unicode_characters.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\06. Strings and Text Processing\10. Unicode characters\obj\Debug\10. Unicode characters.csprojResolveAssemblyReference.cache

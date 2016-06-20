@@ -1,0 +1,165 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head> 
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="03.Style.css">
+    <title>Computers</title>
+</head>
+<body>
+    <table class="mainTable">
+        <tr>
+            <th colspan="2">
+                <a href="#">Apple</a>
+                <a href="#">Toshiba</a>
+                <a href="#">Lenovo</a>
+                <a href="#">Dell</a>
+                <a href="#">Asus</a>
+                <a href="#">Hacer</a>
+                <a href="#">HP</a>
+            </th>
+        </tr>
+        <tr>
+            <td>
+                <table class="innerTable">
+                    <tr>
+                        <td>
+                            <fieldset>
+                                <legend class="center">Apple Mack Book Air</legend>
+                                <table class="box">
+                                    <tr>
+                                        <td><img src="apple.png" alt="Apple Mack Book Air" /> </td>
+                                        <td>64GB SSD <br /><br />2GB DDR </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="center">1300 USD</td>
+                                        <td>Intel Core i5</td>
+                                    </tr>
+                                </table>
+                            </fieldset>
+                        </td>
+                        <td>
+                            <fieldset>
+                                <legend class="center">Apple Mack Book Air</legend>
+                                <table class="box">
+                                    <tr>
+                                        <td><img src="apple.png" alt="Apple Mack Book Air" /> </td>
+                                        <td>64GB SSD <br /><br />2GB DDR </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="center">1300 USD</td>
+                                        <td>Intel Core i5</td>
+                                    </tr>
+                                </table>
+                            </fieldset>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <fieldset>
+                                <legend class="center">Apple Mack Book Air</legend>
+                                <table class="box">
+                                    <tr>
+                                        <td><img src="apple.png" alt="Apple Mack Book Air" /> </td>
+                                        <td>64GB SSD <br /><br />2GB DDR </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="center">1300 USD</td>
+                                        <td>Intel Core i5</td>
+                                    </tr>
+                                </table>
+                            </fieldset>
+                        </td>
+                        <td>
+                            <fieldset>
+                                <legend class="center">Apple Mack Book Air</legend>
+                                <table class="box">
+                                    <tr>
+                                        <td><img src="apple.png" alt="Apple Mack Book Air" /> </td>
+                                        <td>64GB SSD <br /><br />2GB DDR </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="center">1300 USD</td>
+                                        <td>Intel Core i5</td>
+                                    </tr>
+                                </table>
+                            </fieldset>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <fieldset>
+                                <legend class="center">Apple Mack Book Air</legend>
+                                <table class="box">
+                                    <tr>
+                                        <td><img src="apple.png" alt="Apple Mack Book Air" /> </td>
+                                        <td>64GB SSD <br /><br />2GB DDR </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="center">1300 USD</td>
+                                        <td>Intel Core i5</td>
+                                    </tr>
+                                </table>
+                            </fieldset>
+                        </td>
+                        <td>
+                            <fieldset>
+                                <legend class="center">Apple Mack Book Air</legend>
+                                <table class="box">
+                                    <tr>
+                                        <td><img src="apple.png" alt="Apple Mack Book Air" /> </td>
+                                        <td>64GB SSD <br /><br />2GB DDR </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="center">1300 USD</td>
+                                        <td>Intel Core i5</td>
+                                    </tr>
+                                </table>
+                            </fieldset>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td class="rightCell">
+                <div>
+                    Min Price: <span id="minPrace">500</span>USD
+                    <input type="range" id="minPriceSlider" min="0" max="1000" value="500" step="5" onchange="showMinValue(this.value)" />
+                    <script type="text/javascript">
+                        function showMinValue(newValue) {
+                            document.getElementById("minPrace").innerHTML = newValue;
+                        }
+                    </script>
+                </div>
+                <div>
+                    Max Price: <span id="maxPrace">1500</span>USD
+                    <input type="range" id="maxPriceSlider" min="0" max="3000" value="1500" step="10" onchange="showMaxValue(this.value)" />
+                    <script type="text/javascript">
+                        function showMaxValue(newValue) {
+                            document.getElementById("maxPrace").innerHTML = newValue;
+                        }
+                    </script>
+                </div>
+                <div>
+                    Min RAM: <span id="minRAM">4</span>GB
+                    <input type="range" id="minRAMSlider" min="0" max="8" value="4" step="1" onchange="showMinRAMValue(this.value)" />
+                    <script type="text/javascript">
+                        function showMinRAMValue(newValue) {
+                            document.getElementById("minRAM").innerHTML = newValue;
+                        }
+                    </script>
+                </div>
+                <div>
+                    Max RAM: <span id="maxRAM">16</span>GB
+                    <input type="range" id="maxRAMSlider" min="0" max="32" value="16" step="1" onchange="showMaxRAMValue(this.value)" />
+                    <script type="text/javascript">
+                        function showMaxRAMValue(newValue) {
+                            document.getElementById("maxRAM").innerHTML = newValue;
+                        }
+                    </script>
+                </div>
+
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>

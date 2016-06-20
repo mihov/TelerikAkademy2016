@@ -1,0 +1,1 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\05. Using Classes and Objects\05. Triangle three sides\bin\Debug\_05.Triangle_three_sides.exe.config

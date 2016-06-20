@@ -1,0 +1,6 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\04. Numeral Systems\01. Decimal to binary\bin\Debug\_01.Decimal_to_binary.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\04. Numeral Systems\01. Decimal to binary\bin\Debug\_01.Decimal_to_binary.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\04. Numeral Systems\01. Decimal to binary\bin\Debug\_01.Decimal_to_binary.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\04. Numeral Systems\01. Decimal to binary\obj\Debug\01. Decimal to binary.csprojResolveAssemblyReference.cache
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\04. Numeral Systems\01. Decimal to binary\obj\Debug\_01.Decimal_to_binary.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\04. Numeral Systems\01. Decimal to binary\obj\Debug\_01.Decimal_to_binary.pdb

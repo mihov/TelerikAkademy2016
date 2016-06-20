@@ -1,0 +1,5 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\01. Arrays\04. Maximal sequence\bin\Debug\_04.Maximal_sequence.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\01. Arrays\04. Maximal sequence\bin\Debug\_04.Maximal_sequence.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\01. Arrays\04. Maximal sequence\bin\Debug\_04.Maximal_sequence.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\01. Arrays\04. Maximal sequence\obj\Debug\_04.Maximal_sequence.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\01. Arrays\04. Maximal sequence\obj\Debug\_04.Maximal_sequence.pdb

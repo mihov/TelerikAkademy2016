@@ -1,0 +1,5 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\Exam\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\Exam\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\Exam\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\Exam\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\Exam\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

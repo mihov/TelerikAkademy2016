@@ -1,0 +1,6 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\05. Conditional Statements\05. Biggest of 3\bin\Debug\_05.Biggest_of_3.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\05. Conditional Statements\05. Biggest of 3\bin\Debug\_05.Biggest_of_3.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\05. Conditional Statements\05. Biggest of 3\bin\Debug\_05.Biggest_of_3.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\05. Conditional Statements\05. Biggest of 3\obj\Debug\05. Biggest of 3.csprojResolveAssemblyReference.cache
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\05. Conditional Statements\05. Biggest of 3\obj\Debug\_05.Biggest_of_3.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\05. Conditional Statements\05. Biggest of 3\obj\Debug\_05.Biggest_of_3.pdb

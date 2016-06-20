@@ -1,0 +1,6 @@
+E:\User\Desktop\Exam20160601\Task04\bin\Debug\Task04.exe.config
+E:\User\Desktop\Exam20160601\Task04\bin\Debug\Task04.exe
+E:\User\Desktop\Exam20160601\Task04\bin\Debug\Task04.pdb
+E:\User\Desktop\Exam20160601\Task04\obj\Debug\Task04.csprojResolveAssemblyReference.cache
+E:\User\Desktop\Exam20160601\Task04\obj\Debug\Task04.exe
+E:\User\Desktop\Exam20160601\Task04\obj\Debug\Task04.pdb

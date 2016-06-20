@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{09C39971-FBF7-4FFE-B005-BEE1B2B7792F}"
+	ProjectSection(SolutionItems) = preProject
+		problem1.css = problem1.css
+		Problem1.html = Problem1.html
+		problem2.css = problem2.css
+		problem2.html = problem2.html
+		problem3.css = problem3.css
+		problem3.html = problem3.html
+		problem4.css = problem4.css
+		problem4.html = problem4.html
+		problem5.css = problem5.css
+		problem5.html = problem5.html
+		problem6.css = problem6.css
+		problem6.html = problem6.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

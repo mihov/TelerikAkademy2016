@@ -1,0 +1,6 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\05. Conditional Statements\03. Play Card\bin\Debug\_03.Play_Card.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\05. Conditional Statements\03. Play Card\bin\Debug\_03.Play_Card.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\05. Conditional Statements\03. Play Card\bin\Debug\_03.Play_Card.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\05. Conditional Statements\03. Play Card\obj\Debug\03. Play Card.csprojResolveAssemblyReference.cache
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\05. Conditional Statements\03. Play Card\obj\Debug\_03.Play_Card.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\05. Conditional Statements\03. Play Card\obj\Debug\_03.Play_Card.pdb

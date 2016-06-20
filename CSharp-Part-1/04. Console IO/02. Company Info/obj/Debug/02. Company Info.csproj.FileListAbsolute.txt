@@ -1,0 +1,1 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\04. Console IO\02. Company Info\bin\Debug\_02.Company_Info.exe.config

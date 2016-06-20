@@ -1,0 +1,6 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\04. Numeral Systems\04. Hexadecimal to decimal\bin\Debug\_04.Hexadecimal_to_decimal.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\04. Numeral Systems\04. Hexadecimal to decimal\obj\Debug\04. Hexadecimal to decimal.csprojResolveAssemblyReference.cache
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\04. Numeral Systems\04. Hexadecimal to decimal\bin\Debug\_04.Hexadecimal_to_decimal.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\04. Numeral Systems\04. Hexadecimal to decimal\bin\Debug\_04.Hexadecimal_to_decimal.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\04. Numeral Systems\04. Hexadecimal to decimal\obj\Debug\_04.Hexadecimal_to_decimal.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\04. Numeral Systems\04. Hexadecimal to decimal\obj\Debug\_04.Hexadecimal_to_decimal.pdb

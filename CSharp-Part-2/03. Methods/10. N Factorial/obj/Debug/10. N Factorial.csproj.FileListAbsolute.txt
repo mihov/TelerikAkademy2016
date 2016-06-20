@@ -1,0 +1,1 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\03. Methods\10. N Factorial\bin\Debug\_10.N_Factorial.exe.config

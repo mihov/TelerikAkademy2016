@@ -1,0 +1,5 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\04. Console IO\11. Interval\bin\Debug\_11.Interval.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\04. Console IO\11. Interval\bin\Debug\_11.Interval.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\04. Console IO\11. Interval\bin\Debug\_11.Interval.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\04. Console IO\11. Interval\obj\Debug\_11.Interval.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\04. Console IO\11. Interval\obj\Debug\_11.Interval.pdb

@@ -1,0 +1,6 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\01. Arrays\09. Frequent number\bin\Debug\_09.Frequent_number.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\01. Arrays\09. Frequent number\bin\Debug\_09.Frequent_number.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\01. Arrays\09. Frequent number\bin\Debug\_09.Frequent_number.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\01. Arrays\09. Frequent number\obj\Debug\09. Frequent number.csprojResolveAssemblyReference.cache
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\01. Arrays\09. Frequent number\obj\Debug\_09.Frequent_number.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\01. Arrays\09. Frequent number\obj\Debug\_09.Frequent_number.pdb

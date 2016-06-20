@@ -1,0 +1,6 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\03. Methods\07. Reverse number\bin\Debug\_07.Reverse_number.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\03. Methods\07. Reverse number\bin\Debug\_07.Reverse_number.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\03. Methods\07. Reverse number\bin\Debug\_07.Reverse_number.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\03. Methods\07. Reverse number\obj\Debug\07. Reverse number.csprojResolveAssemblyReference.cache
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\03. Methods\07. Reverse number\obj\Debug\_07.Reverse_number.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\03. Methods\07. Reverse number\obj\Debug\_07.Reverse_number.pdb

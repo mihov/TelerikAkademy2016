@@ -1,0 +1,6 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\02. Multidimensional Arrays\03. Sequence in matrix\bin\Debug\_03.Sequence_in_matrix.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\02. Multidimensional Arrays\03. Sequence in matrix\bin\Debug\_03.Sequence_in_matrix.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\02. Multidimensional Arrays\03. Sequence in matrix\bin\Debug\_03.Sequence_in_matrix.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\02. Multidimensional Arrays\03. Sequence in matrix\obj\Debug\03. Sequence in matrix.csprojResolveAssemblyReference.cache
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\02. Multidimensional Arrays\03. Sequence in matrix\obj\Debug\_03.Sequence_in_matrix.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\02. Multidimensional Arrays\03. Sequence in matrix\obj\Debug\_03.Sequence_in_matrix.pdb

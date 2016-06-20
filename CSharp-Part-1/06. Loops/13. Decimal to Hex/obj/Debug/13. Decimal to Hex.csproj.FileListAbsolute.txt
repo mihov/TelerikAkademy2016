@@ -1,0 +1,5 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\06. Loops\13. Decimal to Hex\bin\Debug\_13.Decimal_to_Hex.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\06. Loops\13. Decimal to Hex\bin\Debug\_13.Decimal_to_Hex.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\06. Loops\13. Decimal to Hex\bin\Debug\_13.Decimal_to_Hex.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\06. Loops\13. Decimal to Hex\obj\Debug\_13.Decimal_to_Hex.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\06. Loops\13. Decimal to Hex\obj\Debug\_13.Decimal_to_Hex.pdb

@@ -1,0 +1,5 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\04. Numeral Systems\05. Hexadecimal to binary\bin\Debug\_05.Hexadecimal_to_binary.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\04. Numeral Systems\05. Hexadecimal to binary\bin\Debug\_05.Hexadecimal_to_binary.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\04. Numeral Systems\05. Hexadecimal to binary\bin\Debug\_05.Hexadecimal_to_binary.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\04. Numeral Systems\05. Hexadecimal to binary\obj\Debug\_05.Hexadecimal_to_binary.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\04. Numeral Systems\05. Hexadecimal to binary\obj\Debug\_05.Hexadecimal_to_binary.pdb

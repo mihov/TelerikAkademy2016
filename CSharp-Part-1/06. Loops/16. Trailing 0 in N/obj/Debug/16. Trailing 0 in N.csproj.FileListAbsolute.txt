@@ -1,0 +1,1 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\06. Loops\16. Trailing 0 in N\bin\Debug\_16.Trailing_0_in_N.exe.config

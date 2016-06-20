@@ -1,0 +1,1 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-2\02. Multidimensional Arrays\07. Largest area in matrix\bin\Debug\_07.Largest_area_in_matrix.exe.config

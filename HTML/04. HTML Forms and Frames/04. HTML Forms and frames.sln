@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6561C851-9637-411A-8C07-AB8CE55F380D}"
+	ProjectSection(SolutionItems) = preProject
+		01.Style.css = 01.Style.css
+		01.Task.html = 01.Task.html
+		02.Style.css = 02.Style.css
+		02.Task.html = 02.Task.html
+		03.Style.css = 03.Style.css
+		03.Task.html = 03.Task.html
+		04.Style.css = 04.Style.css
+		04.Task.html = 04.Task.html
+		apple.png = apple.png
+		corbel.ttf = corbel.ttf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

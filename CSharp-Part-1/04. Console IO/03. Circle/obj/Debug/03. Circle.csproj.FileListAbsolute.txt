@@ -1,0 +1,1 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\04. Console IO\03. Circle\bin\Debug\_03.Circle.exe.config

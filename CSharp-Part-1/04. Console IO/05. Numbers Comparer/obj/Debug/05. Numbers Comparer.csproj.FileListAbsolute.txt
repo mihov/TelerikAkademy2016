@@ -1,0 +1,6 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\04. Console IO\05. Numbers Comparer\bin\Debug\_05.Numbers_Comparer.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\04. Console IO\05. Numbers Comparer\bin\Debug\_05.Numbers_Comparer.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\04. Console IO\05. Numbers Comparer\bin\Debug\_05.Numbers_Comparer.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\04. Console IO\05. Numbers Comparer\obj\Debug\05. Numbers Comparer.csprojResolveAssemblyReference.cache
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\04. Console IO\05. Numbers Comparer\obj\Debug\_05.Numbers_Comparer.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\04. Console IO\05. Numbers Comparer\obj\Debug\_05.Numbers_Comparer.pdb

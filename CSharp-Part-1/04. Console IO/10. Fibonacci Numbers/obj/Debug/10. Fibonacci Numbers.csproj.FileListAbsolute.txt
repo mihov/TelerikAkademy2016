@@ -1,0 +1,5 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\04. Console IO\10. Fibonacci Numbers\bin\Debug\_10.Fibonacci_Numbers.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\04. Console IO\10. Fibonacci Numbers\bin\Debug\_10.Fibonacci_Numbers.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\04. Console IO\10. Fibonacci Numbers\bin\Debug\_10.Fibonacci_Numbers.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\04. Console IO\10. Fibonacci Numbers\obj\Debug\_10.Fibonacci_Numbers.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\04. Console IO\10. Fibonacci Numbers\obj\Debug\_10.Fibonacci_Numbers.pdb

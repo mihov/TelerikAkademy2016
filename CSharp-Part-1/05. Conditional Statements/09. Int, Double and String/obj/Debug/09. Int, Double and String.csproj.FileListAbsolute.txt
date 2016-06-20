@@ -1,0 +1,6 @@
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\05. Conditional Statements\09. Int, Double and String\bin\Debug\_09.Int__Double_and_String.exe.config
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\05. Conditional Statements\09. Int, Double and String\bin\Debug\_09.Int__Double_and_String.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\05. Conditional Statements\09. Int, Double and String\bin\Debug\_09.Int__Double_and_String.pdb
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\05. Conditional Statements\09. Int, Double and String\obj\Debug\09. Int, Double and String.csprojResolveAssemblyReference.cache
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\05. Conditional Statements\09. Int, Double and String\obj\Debug\_09.Int__Double_and_String.exe
+E:\User\Documents\Telerik\GitHub\Telerik2016\TelerikAkademy2016\CSharp-Part-1\05. Conditional Statements\09. Int, Double and String\obj\Debug\_09.Int__Double_and_String.pdb
