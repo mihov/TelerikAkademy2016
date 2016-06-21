@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Problem_01
 {
-     class StartUp
+    class StartUp
     {
 
         static void Main(string[] args)
@@ -16,10 +16,14 @@ namespace Problem_01
             Console.WriteLine(text);
             Console.WriteLine(text.Substring(7, 11));
 
-
-            IEnumerable<int> result = from value in Enumerable.Range(0, 5) select value;
-
-            Console.WriteLine(result.Sum());
+            // Problem 2. Test
+            IEnumerable<int> result = from value in Enumerable.Range(1, 5) select value;
+            Console.WriteLine(IEnumerableExtensions.ExtPrint(result));
+            Console.WriteLine(result.ExtSum());
+            Console.WriteLine(result.ExtProduct());
+            Console.WriteLine(result.ExtMin());
+            Console.WriteLine(result.ExtMax());
+            Console.WriteLine(result.ExtAverage());
         }
     }
 }
