@@ -3,3 +3,4 @@ D:\Programming\TelerikAkademy2016\OOP\03. Extension-Methods-Delegates-Lambda-LIN
 D:\Programming\TelerikAkademy2016\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Problem 03\bin\Debug\Problem 03.pdb
 D:\Programming\TelerikAkademy2016\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Problem 03\obj\Debug\Problem 03.exe
 D:\Programming\TelerikAkademy2016\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Problem 03\obj\Debug\Problem 03.pdb
+D:\Programming\TelerikAkademy2016\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Problem 03\obj\Debug\Problem 03.csprojResolveAssemblyReference.cache

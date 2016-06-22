@@ -22,7 +22,7 @@ namespace Problem_03
         {
             foreach (var item in data)
             {
-                Console.WriteLine($"{item.FirstName} {item.LastName}");
+                Console.WriteLine($"{item.FirstName}\t {item.LastName}\t {item.Tel}\t {item.FN}\t {item.Email}");
             }
         }
         public static void SortNumbers(IEnumerable<int> numbers)
@@ -86,7 +86,7 @@ namespace Problem_03
         public static void StudentsWithPhones(Student[] students)
         {
             var groupHavePhone = students
-         .Where(x => !x.Tel.Contains("+359 2"))
+         .Where(x => x.Tel.Contains("+3592"))
          .ToArray();
             groupHavePhone.PrintData();
         }

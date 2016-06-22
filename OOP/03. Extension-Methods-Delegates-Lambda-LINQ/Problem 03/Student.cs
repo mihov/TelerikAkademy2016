@@ -47,10 +47,10 @@ namespace Problem_03
         public static Student[] StudentsInfo()
         {
             var result = new Student[4];
-            result[0] = new Student("Stefan", "Ivanov", 17, "123456", "+359 885 236 441", "Stefan.Ivanov@abv.bg", new List<int> { 5, 4, 5, 3, 2 }, 2);
-            result[1] = new Student("Vasil", "Petkov", 18, "123457", "+359 885 444 441", "Vasil.Petkov@mail.bg", new List<int> { 3, 5, 6, 5, 4, 3 }, 3);
-            result[2] = new Student("Kolio", "Georgiev", 23, "123458", "+359 885 123 441", "Kolio.Georgiev@abv.bg", new List<int> { 3, 4, 5, 6, 3, 4 }, 2);
-            result[3] = new Student("Stefan", "Kolev", 27, "1234510", "+359 885 777 444", "Stefan.Kolev@abv.com", new List<int> { 4, 6, 3, 5, 3, 5 }, 1);
+            result[0] = new Student("Stefan", "Ranov", 17, "12340615", "+359285236441", "Stefan.Ivanov@abv.bg", new List<int> { 5, 4, 5, 3, 2 }, 2);
+            result[1] = new Student("Vasil", "Petkov", 18, "12340725", "+3593095444441", "Vasil.Petkov@mail.bg", new List<int> { 3, 5, 6, 5, 4, 3 }, 3);
+            result[2] = new Student("Kolio", "Zeorgoev", 23, "12340666", "+3592875123441", "Kolio.Georgiev@abv.bg", new List<int> { 3, 4, 5, 6, 3, 4 }, 2);
+            result[3] = new Student("Stefan", "Kolev", 27, "12340633", "+359485777444", "Stefan.Kolev@abv.com", new List<int> { 4, 6, 3, 5, 3, 5 }, 1);
             return result;
         }
     }
