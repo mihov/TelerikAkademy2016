@@ -1,0 +1,6 @@
+E:\Programing\TelerikAkademy2016\OOP\04.OOP_PrinciplesPart1\Problem1\bin\Debug\Problem1.exe.config
+E:\Programing\TelerikAkademy2016\OOP\04.OOP_PrinciplesPart1\Problem1\bin\Debug\Problem1.exe
+E:\Programing\TelerikAkademy2016\OOP\04.OOP_PrinciplesPart1\Problem1\bin\Debug\Problem1.pdb
+E:\Programing\TelerikAkademy2016\OOP\04.OOP_PrinciplesPart1\Problem1\obj\Debug\Problem1.csprojResolveAssemblyReference.cache
+E:\Programing\TelerikAkademy2016\OOP\04.OOP_PrinciplesPart1\Problem1\obj\Debug\Problem1.exe
+E:\Programing\TelerikAkademy2016\OOP\04.OOP_PrinciplesPart1\Problem1\obj\Debug\Problem1.pdb
