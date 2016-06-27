@@ -82,11 +82,8 @@ namespace Problem2.BankAccounts
             }
         }
 
-        public void CalculateInterest()
-        {
-            DateTime today = DateTime.Now;
-            today = Bank.VirtualDate;// Comment this row in real use
-        }
+        public abstract void CalculateInterest(int period);
+
 
         public void Deposit(decimal deposit)
         {
@@ -96,6 +93,8 @@ namespace Problem2.BankAccounts
             this.Balance += deposit;
             this.depRecords.Add(new AccRec(deposit, today));
         }
+
+
 
         public void PrintDeposits(DateTime from, DateTime to)
         {

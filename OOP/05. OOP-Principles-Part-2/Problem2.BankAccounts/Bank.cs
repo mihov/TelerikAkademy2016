@@ -9,23 +9,45 @@ namespace Problem2.BankAccounts
     {
         public static DateTime VirtualDate { get; set; }
 
+        //private List<Deposit> depositAccountsList;
+        //private List<Mortgage> mortgageAccountsList;
+        //private List<Loan> loanAccountsList;
         private List<Account> accountsList;
+
 
         public String Name { get; private set; }
 
         public Bank(String name)
         {
             this.Name = name;
-            accountsList = new List<Account>();
+            //this.depositAccountsList = new List<Deposit>();
+            //this.mortgageAccountsList = new List<Mortgage>();
+            //this.loanAccountsList = new List<Loan>();
+            this.accountsList = new List<Account>();
             VirtualDate = DateTime.Now;
         }
 
         public void AddAccount(Account value)
         {
             this.accountsList.Add(value);
+
+            //switch (value.GetType().ToString())
+            //{
+            //    case "Deposit":
+            //        this.depositAccountsList.Add(value as Deposit);
+            //        break;
+            //    case "Mortgage":
+            //        break;
+            //    case "Loan":
+            //        break;
+
+            //    default:
+            //        break;
+            //}
         }
 
-        public Account SelectAccount( Customers customer, String owneName) {
+        public Account SelectAccount(Customers customer, String owneName)
+        {
             return accountsList.Find(x => x.Owner == owneName && x.Customer == customer);
         }
 

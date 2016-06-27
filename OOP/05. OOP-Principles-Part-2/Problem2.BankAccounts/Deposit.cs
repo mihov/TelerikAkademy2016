@@ -9,11 +9,12 @@ namespace Problem2.BankAccounts
     {
         private List<AccRec> wdRecords;
 
-        bool IWithDraw.WithDraw(decimal withDraw)
+        public bool WithDraw(decimal withDraw)
         {
             if (this.Balance >= withDraw)
             {
-                this.Balance -= withDraw;
+                this.Balance = this.Balance - withDraw;
+
                 DateTime today = DateTime.Now;
                 today = Bank.VirtualDate;// Comment this row in real use
                 this.wdRecords.Add(new AccRec(withDraw, today));
@@ -26,13 +27,12 @@ namespace Problem2.BankAccounts
         }
 
 
-
         public Deposit(Customers customer, String owner) : base(customer, owner)
         {
             this.wdRecords = new List<AccRec>();
         }
 
-        public void WithDraws(DateTime from, DateTime to)
+        public void PrintWithDraws(DateTime from, DateTime to)
         {
             Console.Write(this.Owner);
             Console.WriteLine(" with draw records from: {0} to: {1}", from.ToShortDateString(), to.ToShortDateString());
@@ -40,7 +40,7 @@ namespace Problem2.BankAccounts
             int cnt = 1;
             Console.WriteLine("|{0}|{1}|{2}|",
                     "No".PadLeft(5, ' '),
-                    "Date".PadRight(25),
+                    "Date".PadRight(15),
                     "Amount".PadRight(15)
              );
             foreach (var item in this.wdRecords)
@@ -55,8 +55,39 @@ namespace Problem2.BankAccounts
                     cnt++;
                 }
             }
+        }
 
 
+        public void PrintWithDraws()
+        {
+            Console.Write(this.Owner);
+            Console.WriteLine(" with draw records");
+
+            int cnt = 1;
+            Console.WriteLine("|{0}|{1}|{2}|",
+                    "No".PadLeft(5, ' '),
+                    "Date".PadRight(15),
+                    "Amount".PadRight(15)
+             );
+            foreach (var item in this.wdRecords)
+            {
+
+                Console.WriteLine("|{0}|{1}|{2}|",
+                    cnt.ToString().PadLeft(5, ' '),
+                    item.Date.ToShortDateString().PadRight(15),
+                    item.Amount.ToString().PadRight(15)
+                    );
+                cnt++;
+
+            }
+        }
+
+        public override void CalculateInterest(int period)
+        {
+            if (this.Balance >= 1000)
+            {
+                this.Balance = this.Balance * (1 + (this.InterestRate * period));
+            }
 
         }
     }

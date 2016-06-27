@@ -11,6 +11,18 @@ namespace Problem2.BankAccounts
         {
 
         }
+
+        public override void CalculateInterest(int period)
+        {
+            if (this.Customer == Customers.Individuals)
+            {
+                if((Bank.VirtualDate - DateOfCreation) >= DateTime.)
+            }
+            else
+            {
+
+            }
+        }
     }
 
 

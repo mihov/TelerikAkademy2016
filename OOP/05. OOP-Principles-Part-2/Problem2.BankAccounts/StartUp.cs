@@ -22,7 +22,15 @@
             cCB.PrintAccounts();
 
             cCB.SelectAccount(Customers.Individuals, "Ivan Ivanov").Deposit(300.00m);
+
             cCB.SelectAccount(Customers.Individuals, "Ivan Ivanov").PrintDeposits();
+            Console.WriteLine(cCB.SelectAccount(Customers.Individuals, "Ivan Ivanov").Balance);
+
+
+            (cCB.SelectAccount(Customers.Individuals, "Ivan Ivanov") as Deposit).WithDraw(333);
+            (cCB.SelectAccount(Customers.Individuals, "Ivan Ivanov") as Deposit).PrintWithDraws();
+            Console.WriteLine(cCB.SelectAccount(Customers.Individuals, "Ivan Ivanov").Balance);
+
         }
     }
 }
