@@ -1,6 +1,0 @@
-E:\Programing\TelerikAkademy2016\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Problem 01\bin\Debug\Problem 01.exe.config
-E:\Programing\TelerikAkademy2016\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Problem 01\bin\Debug\Problem 01.exe
-E:\Programing\TelerikAkademy2016\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Problem 01\bin\Debug\Problem 01.pdb
-E:\Programing\TelerikAkademy2016\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Problem 01\obj\Debug\Problem 01.csprojResolveAssemblyReference.cache
-E:\Programing\TelerikAkademy2016\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Problem 01\obj\Debug\Problem 01.exe
-E:\Programing\TelerikAkademy2016\OOP\03. Extension-Methods-Delegates-Lambda-LINQ\Problem 01\obj\Debug\Problem 01.pdb
