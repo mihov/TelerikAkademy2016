@@ -16,11 +16,17 @@ namespace Problem2.BankAccounts
         {
             if (this.Customer == Customers.Individuals)
             {
-                if((Bank.VirtualDate - DateOfCreation) >= DateTime.)
+                if (Bank.MonthDifference(Bank.VirtualDate, this.DateOfCreation) > 3)
+                {
+                    this.Balance = this.Balance * (1 + (this.InterestRate * period));
+                }
             }
             else
             {
-
+                if (Bank.MonthDifference(Bank.VirtualDate, this.DateOfCreation) > 2)
+                {
+                    this.Balance = this.Balance * (1 + (this.InterestRate * period));
+                }
             }
         }
     }

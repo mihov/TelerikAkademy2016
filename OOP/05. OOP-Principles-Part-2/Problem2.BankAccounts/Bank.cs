@@ -1,17 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace Problem2.BankAccounts
+﻿namespace Problem2.BankAccounts
 {
+    using System;
+    using System.Collections.Generic;
+
     public class Bank
     {
         public static DateTime VirtualDate { get; set; }
-
-        //private List<Deposit> depositAccountsList;
-        //private List<Mortgage> mortgageAccountsList;
-        //private List<Loan> loanAccountsList;
         private List<Account> accountsList;
 
 
@@ -20,9 +14,6 @@ namespace Problem2.BankAccounts
         public Bank(String name)
         {
             this.Name = name;
-            //this.depositAccountsList = new List<Deposit>();
-            //this.mortgageAccountsList = new List<Mortgage>();
-            //this.loanAccountsList = new List<Loan>();
             this.accountsList = new List<Account>();
             VirtualDate = DateTime.Now;
         }
@@ -30,20 +21,6 @@ namespace Problem2.BankAccounts
         public void AddAccount(Account value)
         {
             this.accountsList.Add(value);
-
-            //switch (value.GetType().ToString())
-            //{
-            //    case "Deposit":
-            //        this.depositAccountsList.Add(value as Deposit);
-            //        break;
-            //    case "Mortgage":
-            //        break;
-            //    case "Loan":
-            //        break;
-
-            //    default:
-            //        break;
-            //}
         }
 
         public Account SelectAccount(Customers customer, String owneName)
@@ -54,6 +31,11 @@ namespace Problem2.BankAccounts
         public bool RemoveAccount(Account value)
         {
             return this.accountsList.Remove(value);
+        }
+
+        public static int MonthDifference(DateTime lValue, DateTime rValue)
+        {
+            return Math.Abs((lValue.Month - rValue.Month) + 12 * (lValue.Year - rValue.Year));
         }
 
         public void PrintAccounts()
