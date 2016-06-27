@@ -1,0 +1,6 @@
+E:\Programing\TelerikAkademy2016\OOP\05. OOP-Principles-Part-2\Problem2.BankAccounts\bin\Debug\Problem2.BankAccounts.exe.config
+E:\Programing\TelerikAkademy2016\OOP\05. OOP-Principles-Part-2\Problem2.BankAccounts\bin\Debug\Problem2.BankAccounts.exe
+E:\Programing\TelerikAkademy2016\OOP\05. OOP-Principles-Part-2\Problem2.BankAccounts\bin\Debug\Problem2.BankAccounts.pdb
+E:\Programing\TelerikAkademy2016\OOP\05. OOP-Principles-Part-2\Problem2.BankAccounts\obj\Debug\Problem2.BankAccounts.exe
+E:\Programing\TelerikAkademy2016\OOP\05. OOP-Principles-Part-2\Problem2.BankAccounts\obj\Debug\Problem2.BankAccounts.pdb
+E:\Programing\TelerikAkademy2016\OOP\05. OOP-Principles-Part-2\Problem2.BankAccounts\obj\Debug\Problem2.BankAccounts.csprojResolveAssemblyReference.cache
