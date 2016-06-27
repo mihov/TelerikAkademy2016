@@ -79,9 +79,24 @@
 
 
             (cCB.SelectAccount(Customers.Individuals, "Ivan Ivanov") as Deposit).WithDraw(333);
+            (cCB.SelectAccount(Customers.Individuals, "Ivan Ivanov") as Deposit).WithDraw(444);
+            (cCB.SelectAccount(Customers.Individuals, "Ivan Ivanov") as Deposit).WithDraw(555);
             (cCB.SelectAccount(Customers.Individuals, "Ivan Ivanov") as Deposit).PrintWithDraws();
             Console.WriteLine(cCB.SelectAccount(Customers.Individuals, "Ivan Ivanov").Balance);
 
+
+            // Print all accounts
+            cCB.PrintAccounts();
+
+            cCB.CalculateAllInterest(6);
+
+            cCB.PrintAccounts();
+
+            Bank.VirtualDate.AddYears(1);
+
+            cCB.CalculateAllInterest(6);
+
+            cCB.PrintAccounts();
         }
     }
 }

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem1.Shapes", "Problem1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem2.BankAccounts", "Problem2.BankAccounts\Problem2.BankAccounts.csproj", "{81584B62-36E3-4743-B3FE-9393616F562A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem3.RangeExceptions", "Problem3.RangeExceptions\Problem3.RangeExceptions.csproj", "{2A1ED7E2-4C0B-46DE-8485-2662CBB2730B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{81584B62-36E3-4743-B3FE-9393616F562A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81584B62-36E3-4743-B3FE-9393616F562A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81584B62-36E3-4743-B3FE-9393616F562A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A1ED7E2-4C0B-46DE-8485-2662CBB2730B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A1ED7E2-4C0B-46DE-8485-2662CBB2730B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A1ED7E2-4C0B-46DE-8485-2662CBB2730B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A1ED7E2-4C0B-46DE-8485-2662CBB2730B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

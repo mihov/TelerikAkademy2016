@@ -38,6 +38,14 @@
             return Math.Abs((lValue.Month - rValue.Month) + 12 * (lValue.Year - rValue.Year));
         }
 
+        public void CalculateAllInterest(int period)
+        {
+            foreach (var item in this.accountsList)
+            {
+                item.CalculateInterest(period);
+            }
+        }
+
         public void PrintAccounts()
         {
             Console.WriteLine("\n ================= All Bank Accounts =================");
