@@ -1,5 +1,0 @@
-E:\Programing\TelerikAkademy2016\OOP\05. OOP-Principles-Part-2\Problem3.RangeExceptions\bin\Debug\Problem3.RangeExceptions.exe.config
-E:\Programing\TelerikAkademy2016\OOP\05. OOP-Principles-Part-2\Problem3.RangeExceptions\bin\Debug\Problem3.RangeExceptions.exe
-E:\Programing\TelerikAkademy2016\OOP\05. OOP-Principles-Part-2\Problem3.RangeExceptions\bin\Debug\Problem3.RangeExceptions.pdb
-E:\Programing\TelerikAkademy2016\OOP\05. OOP-Principles-Part-2\Problem3.RangeExceptions\obj\Debug\Problem3.RangeExceptions.exe
-E:\Programing\TelerikAkademy2016\OOP\05. OOP-Principles-Part-2\Problem3.RangeExceptions\obj\Debug\Problem3.RangeExceptions.pdb
