@@ -1,6 +1,7 @@
-var arr0 = ['6\n3\n4\n1\n5\n2\n6'];
 
-console.log(SelectionSort(arr0));
+//var arr0 = ['6\n3\n4\n1\n5\n2\n6'];
+
+console.log(SelectionSort(input));
 
 function SelectionSort(params) {
     var arr = params[0].split('\n'),
