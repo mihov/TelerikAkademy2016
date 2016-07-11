@@ -1,0 +1,5 @@
+E:\User\Desktop\Dealership_Description\Dealership-Skeleton\Dealership\obj\Debug\Dealership.csprojResolveAssemblyReference.cache
+E:\User\Desktop\Dealership_Description\Dealership-Skeleton\Dealership\bin\Debug\Dealership.exe
+E:\User\Desktop\Dealership_Description\Dealership-Skeleton\Dealership\bin\Debug\Dealership.pdb
+E:\User\Desktop\Dealership_Description\Dealership-Skeleton\Dealership\obj\Debug\Dealership.exe
+E:\User\Desktop\Dealership_Description\Dealership-Skeleton\Dealership\obj\Debug\Dealership.pdb
